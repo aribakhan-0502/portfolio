@@ -63,17 +63,29 @@ The fact table captures analytics on delays, revenue, and incidents, with attrib
 The Power BI dashboard is divided into four sections:
 
 ### Section 1: Main Page
+
+![Main Page](https://github.com/aribakhan-0502/portfolio/blob/main/ETL%20Pipeline%20with%20Power%20BI%20Dashboard/Dashboard%20Screen%20Caps/Home%20Page.png)
+
 - Navigation to analysis sections: Delay, Revenue, and Incidents.
 - Overview of the project and team.
 
 ### Section 2: Delay Analysis
+
+![Delay Analysis](https://github.com/aribakhan-0502/portfolio/blob/main/ETL%20Pipeline%20with%20Power%20BI%20Dashboard/Dashboard%20Screen%20Caps/Delay%20Analysis.png)
+
 - Analysis of delays by buses, routes, and other dimensions.
 - Visualizations of delay trends over time.
 
 ### Section 3: Revenue Analysis
+
+![Revenue Analysis](https://github.com/aribakhan-0502/portfolio/blob/main/ETL%20Pipeline%20with%20Power%20BI%20Dashboard/Dashboard%20Screen%20Caps/Revenue%20Analysis.png)
+
 - Analysis of revenue trends by fare types, routes, and payment methods.
 
 ### Section 4: Incident Analysis
+
+![Incident Analysis](https://github.com/aribakhan-0502/portfolio/blob/main/ETL%20Pipeline%20with%20Power%20BI%20Dashboard/Dashboard%20Screen%20Caps/Incident%20Analysis.png)
+
 - Analysis of incidents and complaints, including their frequency and types.
 
 ## Project Files
