@@ -95,7 +95,3 @@ The following files are included in this repository:
 - **OLTP to Data Mart Mapping Notebook**: Python script for mapping OLTP data to the data mart.
 - **SQL Queries**: Scripts for querying the data mart.
 - **Power BI Dashboard**: `.pbix` file containing the dashboard.
-
-## Conclusion
-
-This project provides a comprehensive approach to simulating, storing, and analyzing public transport data for Karachi, offering valuable insights into the performance and challenges of the system.
