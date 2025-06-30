@@ -11,3 +11,5 @@ This project involves cleaning and processing survey data from a 2014 study that
 - **Data Visualization:** Created visualizations using Matplotlib and Seaborn to explore mental health attitudes in the tech workplace.
 
 This project provides a thorough exploration of mental health issues in the tech industry, offering valuable insights into the challenges and opportunities for improving mental health awareness and support.
+
+To review the documented codework and data visualizations, click on ["Data Cleaning Tech Employee Survey Responses.ipynb"](https://github.com/aribakhan-0502/portfolio/blob/main/Data%20Cleaning%20Tech%20Employee%20Survey%20Responses/Data%20Cleaning%20Tech%20Employee%20Survey%20Responses.ipynb)
